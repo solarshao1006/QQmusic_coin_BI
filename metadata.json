@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "乐币看板",
+  "description": "基于 React 的多账号乐币花销与兑换规划工具",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
